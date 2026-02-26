@@ -49,6 +49,7 @@ ul {
 }
 .header-section {
   background: #ffffff;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-container {
   display: flex;
@@ -87,6 +88,7 @@ ul {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
+  margin-right: 76px;
 }
 
 .nav-item {
@@ -140,6 +142,7 @@ ul {
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
+  max-width: 496px;
 }
 
 .main-button {
@@ -311,6 +314,7 @@ ul {
   border-left: 1px solid;
   border-right: 1px solid;
 }
+/* -----------------------------------------FOOTER----------------------------------------------------- */
 .footer-section {
   background-color: #2e2f42;
   padding-top: 100px;
@@ -333,7 +337,7 @@ ul {
   font-size: 18px;
   letter-spacing: 0.03em;
   margin-bottom: 16px;
-  display: block;
+  display: inline-block;
 }
 .name-studio {
   color: #f4f4fd;
