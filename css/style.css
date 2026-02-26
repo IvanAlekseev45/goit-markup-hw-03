@@ -164,7 +164,9 @@ ul {
 }
 
 /* ---------------------------------------BENEFITS------------------------------------------------------------ */
-
+.li-benefits {
+  width: calc((100% - 72px) / 4);
+}
 .visually-hidden {
   position: absolute;
   width: 1px;
