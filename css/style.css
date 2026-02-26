@@ -204,9 +204,7 @@ ul {
   margin-bottom: 8px;
 }
 /* ----------------------------------------OUR TEAM------------------------------------------------------------------- */
-.div-team {
-  padding: 32px 0;
-}
+
 .section-title {
   color: #2e2f42;
   font-weight: 700;
@@ -218,7 +216,7 @@ ul {
   margin-bottom: 72px;
 }
 .under-img-div {
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 .img-team {
   display: block;
@@ -277,7 +275,7 @@ ul {
   row-gap: 48px;
 }
 .item-portfolio {
-  width: calc((100%-48px) / 3);
+  width: calc((100% - 48px) / 3);
 }
 .img-portfolio {
   display: block;
@@ -321,7 +319,7 @@ ul {
   border-left: 1px solid;
   border-right: 1px solid;
 }
-.div-last-section {
+.div-text-portfolio {
   border: 1px solid #e7e9fc;
 }
 .h-portfolio {
